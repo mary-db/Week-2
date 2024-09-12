@@ -255,6 +255,7 @@ I did not have time to do this.
 
 # Part 6
 I improved the plot in the following ways: 
+
 1. I made the fill meaningful.  Now, each violin is filled according to cocoa percentage, which is a factor rather than a gradient -- fill by year as a continuous variable had no meaning.
 
 2. I faceted by year in order to better visualize the annual trends. 
